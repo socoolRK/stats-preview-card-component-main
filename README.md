@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot%202022-03-18%20at%2016-21-36%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
+![](screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
